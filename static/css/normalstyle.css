@@ -1,0 +1,30 @@
+body,html{
+    background-color: darkgray;
+    background-image: url(/static/images/goodbusiness.jpg);
+    background-position: inherit;
+    backface-visibility: inherit;
+    background-repeat: no-repeat;
+
+}
+
+
+.cardworks 
+{
+    border-radius: 40px;
+    background-color: transparent;
+    background-attachment: fixed;
+    opacity: inherit;
+    box-shadow: midnightblue;
+
+}
+.card
+{
+   background-color:royalblue;
+   background-attachment: local; 
+  
+   color: white;
+    opacity: 2rem;
+    margin: auto;
+    margin-left: 20rem;
+    
+}
